@@ -1,0 +1,94 @@
+{
+  "_id": "kategori1",
+  "tahunAjar": {
+    "tahun": "2022/2023",
+    "nama": "Semester Pendek",
+    "fakultas": [
+      {
+        "namaFakultas": "Fakultas Arsitektur dan Desain",
+        "namaSingkat": "FAD",
+        "programStudi": [
+          {
+            "kodeProdi": "21AR",
+            "namaProdi": "Arsitektur"
+          },
+          {
+            "kodeProdi": "31DI",
+            "namaProdi": "Desain Interior"
+          },
+          {
+            "kodeProdi": "32DP",
+            "namaProdi": "Desain Produk"
+          },
+          {
+            "kodeProdi": "33DKV",
+            "namaProdi": "Arsitektur"
+          }
+        ]
+      },
+      {
+        "namaFakultas": "Fakultas Teknik Sipil dan Perencanaan",
+        "namaSingkat": "FTSP",
+        "programStudi": [
+          {
+            "kodeProdi": "22SI",
+            "namaProdi": "Teknik Sipil"
+          },
+          {
+            "kodeProdi": "23GD",
+            "namaProdi": "Teknik Geodesi"
+          },
+          {
+            "kodeProdi": "24PWK",
+            "namaProdi": "Perencanaan Wilayah dan Kota"
+          },
+          {
+            "kodeProdi": "25TL",
+            "namaProdi": "Teknik Lingkungan"
+          }
+        ]
+      },
+      {
+        "namaFakultas": "Fakultas Teknologi Industri",
+        "namaSingkat": "FTI",
+        "programStudi": [
+          {
+            "kodeProdi": "11EL",
+            "namaProdi": "Teknik Elektro"
+          },
+          {
+            "kodeProdi": "12MS",
+            "namaProdi": "Teknik Mesin"
+          },
+          {
+            "kodeProdi": "13TI",
+            "namaProdi": "Teknik Industri"
+          },
+          {
+            "kodeProdi": "14TK",
+            "namaProdi": "Teknik Kimia"
+          },
+          {
+            "kodeProdi": "15IF",
+            "namaProdi": "Informatika"
+          },
+          {
+            "kodeProdi": "16IS",
+            "namaProdi": "Sistem Informasi",
+            "kursus": [
+              {
+                "idKursus": "kursus1"
+              },
+              {
+                "idKursus": "kursus2"
+              },
+              {
+                "idKursus": "kursus3"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+[{
+  "_id": "kursus1",
+  "namaKursus": "ISB-322 BASIS DATA NON RELASIONAL AA SP 2022/2023",
+  "pengumuman": "Selamat bergabung di mata kuliah ISB-322 Basis Data Non-Relasional, mohon diperhatikan pengumuman di bawah ini ya",
+  "peserta": [
+    {
+      "idUser": "user1",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user2",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user3",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user4",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user5",
+      "peran": "Siswa"
+    }
+  ],
+  "pertemuan": [
+    {
+      "namaPertemuan": "03-07-2023 | Pengenalan NoSQL",
+      "berkas": [
+        {
+          "namaBerkas": "Pengenalan NoSQL",
+          "deskripsiBerkas": "Fitur-fitur NoSQL, Kenapa Perlu Belajar NoSQL, Masalah Pada Database Konvensional, Menangani Tipe Data Berbeda Pada NoSql, Pengenalan MongoDB"
+        },
+        {
+          "namaBerkas": "Installing MongoDB",
+          "deskripsiBerkas": "Langkah-langkah penginstallan MongoDB dan pengaturan path pada Windows"
+        }
+      ]
+    },
+    {
+      "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+      "berkas": [
+        {
+          "namaBerkas": "Operasi CRUD pada MongoDB",
+          "deskripsiBerkas": "Membuat dan Menghapus Database, Membuat dan Menghapus Collections, Menambah Mengubah Menghapus dan Membaca Document di dalam Collections"
+        }
+      ],
+      "penugasan": [
+        {
+          "namaPenugasan": "Tugas Mandiri TM-02",
+          "deskripsiPenugasan": "Submit Tugas Mandiri dalam format .PDF, maksimal tanggal 05 Juli 2023, pukul 23.00 WIB",
+          "batasWaktu": "Wednesday, 5 July 2023, 23:00"
+        },
+        {
+          "namaPenugasan": "Tugas Kelompok TM-02",
+          "deskripsiPenugasan": "Submit Tugas Mandiri dalam format .PDF, maksimal tanggal 11 Juli 2023, pukul 23.00 WIB",
+          "batasWaktu": "Tuesday, 11 July 2023, 23:00"
+        }
+      ]
+    },
+    {
+      "namaPertemuan": "10-07-2023 | Skema dan Relasi: Bagaimana Membuat Struktur Document",
+      "berkas": [
+        {
+          "namaBerkas": "Skema dan Relasi pada MongoDB",
+          "deskripsiBerkas": "Memahami Skema Documents dan Relasinya, Memodelkan Relasi Documents, Validasi Skema"
+        },
+        {
+          "namaBerkas": "Validation Constraint - Warning",
+          "deskripsiBerkas": "Unduh query untuk validasi constraint warning disini"
+        },
+        {
+          "namaBerkas": "Validation Constraint - Error",
+          "deskripsiBerkas": "Unduh query untuk validasi constraint error disini"
+        }
+      ],
+      "penugasan": [
+        {
+          "namaPenugasan": "Tugas Kelompok TM-03",
+          "deskripsiPenugasan": "Submit Tugas Kelompok dalam format .PDF, maksimal tanggal 8 Maret 2023, pukul 23.00 WIB",
+          "batasWaktu": "Sunday, 16 July 2023, 23:00"
+        }
+      ]
+    }
+  ]
+},
+{
+  "_id": "kursus2",
+  "namaKursus": "ISB-306 PELAYANAN TEKNOLOGI INFORMASI AA SP 2022/2023",
+  "peserta": [
+    {
+      "idUser": "user1",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user2",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user3",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user4",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user5",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user6",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user7",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user8",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user9",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user10",
+      "peran": "Siswa"
+    }
+  ],
+  "pertemuan": [
+    {
+      "namaPertemuan": "Topik 1: (4 Juli 2023)",
+      "berkas": {
+        "namaBerkas": "Kontrak Kuliah ISB 306"
+      },
+      "halaman": [
+        {
+          "namaHalaman": "Slide Materi: Pengantar PLTI"
+        },
+        {
+          "namaHalaman": "Diskusi: Layanan, Value Output, dan Outcomes"
+        }
+      ],
+      "url": [
+        {
+          "namaUrl": "How Walt Disney Adopt ITIL"
+        },
+        {
+          "namaUrl": "Product or Service?"
+        }
+      ]
+    },
+    {
+      "namaPertemuan": "Topik 2: Layanan Teknologi Informasi",
+      "berkas": [
+        {
+          "namaBerkas": "Buku: ITIL v4"
+        },
+        {
+          "namaBerkas": "Slide Materi: ITSM Key Concept"
+        }
+      ],
+      "halaman": [
+        {
+          "namaHalaman": "Opening Case -Axle Car Hire"
+        },
+        {
+          "namaHalaman": "Slide Materi: ITSM Key Concept"
+        },
+        {
+          "namaHalaman": "Slide Materi: ITIL v4"
+        }
+      ],
+      "url": [
+        {
+          "namaUrl": "Simplilearn: ITIL v4"
+        },
+        {
+          "namaUrl": "Collaborative Canva: Key Concept of Service Management"
+        }
+      ]
+    },
+    {
+      "namaPertemuan": "Topik 3: (12 Juli 2023)",
+      "berkas": [
+        {
+          "namaBerkas": "Slide Materi: 4 Dimension IT Service"
+        },
+        {
+          "namaBerkas": "Example: Value Stream (New Service)"
+        }
+      ],
+      "halaman": [
+        {
+          "namaHalaman": "Slide Materi: 4 Dimensi IT Service"
+        }
+      ],
+      "kuis": {
+        "namaKuis": "Warming Up 3: Key Concept of IT Service",
+        "tenggatKuis": "Wednesday, 12 July 2023, 13:50",
+        "waktuPengerjaan": 45
+      },
+      "penugasan": {
+        "namaPenugasan": "Weekly Activity 1: Key Concept of IT Service",
+        "deskripsiPenugasan": "Mahasiswa secara berkelompok (Gunakan kelompok Weekly Activity Pertemuan 2) menentukan satu Penyedia Layanana TI. Ikuti instruksi pada lampiran, Tugas dipresentasikan. Good Luck!",
+        "batasWaktu": "Monday, 17 July 2023, 23:50"
+      }
+    }
+  ]
+},
+{
+  "_id": "kursus3",
+  "namaKursus": "ISB-324 MANAJEMEN DATA AA SP 2022/2023",
+  "peserta": [
+    {
+      "idUser": "user6",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user7",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user8",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user9",
+      "peran": "Siswa"
+    },
+    {
+      "idUser": "user10",
+      "peran": "Siswa"
+    }
+  ],
+  "pertemuan": [
+    {
+      "namaPertemuan": "Kuliah 1: Teori tentang Basisdata Administrasi",
+      "berkas": [
+        {
+          "namaBerkas": "TEORI BASISDATA ADMINISTRASI",
+          "deskripsiBerkas": "Silahkan diunduh"
+        },
+        {
+          "namaBerkas": "Buku Basisdata Administrasi"
+        }
+      ],
+      "penugasan": {
+        "namaPenugasan": "TUGAS 1",
+        "deskripsiPenugasan": "Silahkan menerjemahkan dari buku pdf yang sudah saya upload di elearning ini. Yang diterjemahkan tugas2 dari DBA. Tugas ini dikelompokkan seperti yang sudah ditulis di excell",
+        "batasWaktu": "Tuesday, 4 July 2023, 19:00"
+      }
+    },
+    {
+      "namaPertemuan": "Kuliah 2: Manajemen File dengan SQL Server",
+      "berkas": [
+        {
+          "namaBerkas": "Kuliah 2"
+        },
+        {
+          "namaBerkas": "Kuliah 2 A",
+          "deskripsiBerkas": "Materi: Page and Extent Architecture"
+        }
+      ]
+    },
+    {
+      "namaPertemuan": "Kuliah 3: Manajemen File",
+      "penugasan": {
+        "namaPenugasan": "KUIS SC 1 SC 2",
+        "deskripsiPenugasan": "Silahkan dibuat kuis ini : SC 1 - Teori Administrasi Basisdata, SC 2 - File Group. Diperbolehkan membuka catatan, jawaban tidak boleh sama untuk setiap mahasiswa. Due date 10 July 2023, jam 13:00. Aturan penamaan file: ISB 324_KuisSC1_SC2_NRP.pdf",
+        "batasWaktu": "Monday, 10 July 2023, 13:00"
+      }
+    }
+  ]
+}]

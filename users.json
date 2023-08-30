@@ -1,0 +1,1212 @@
+[
+  {
+    "_id": "user1",
+    "username": "muhammad.hilmy",
+    "password": "*****",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021001",
+        "namaBelakang": "Muhammad Hilmy Aiman"
+      },
+      "email": "muhammad.hilmy@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus1",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas Mandiri TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas Kelompok TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "10-07-2023 | Skema dan Relasi : Bagaimana Membuat Struktur Dokumen",
+              "penugasan": {
+                "namaPenugasan": "Tugas Kelompok TM-03",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-02.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "17-07-2023 | Diving Deeper Create operation",
+              "penugasan": {
+                "namaPenugasan": "Submit Tugas TM-04",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user6",
+    "username": "rifa.aulia",
+    "password": "******",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021055",
+        "namaBelakang": "Rifa Aulia Risyanti"
+      },
+      "email": "rifa.aulia@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus3",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 1 : teori tentang basisdata administrasi",
+              "penugasan": {
+                "namaPenugasan": "Tugas 1",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 3: manajemen File",
+              "penugasan": {
+                "namaPenugasan": "KUIS SC 1 SC 2",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 6: Tugas SC 3 SC 4",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas SC 3",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas SC 4",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user2",
+    "username": "ramzi.mubarak",
+    "password": "*****",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021004",
+        "namaBelakang": "Ramzi Mubarak"
+      },
+      "email": "ramzi.mubarak@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus1",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas Mandiri TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas Kelompok TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "10-07-2023 | Skema dan Relasi : Bagaimana Membuat Struktur Dokumen",
+              "penugasan": {
+                "namaPenugasan": "Tugas Kelompok TM-03",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-02.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "17-07-2023 | Diving Deeper Create operation",
+              "penugasan": {
+                "namaPenugasan": "Submit Tugas TM-04",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user3",
+    "username": "bennart.dem",
+    "password": "*****",
+    "umum": {
+      "nama": {
+        "namaDepan": "1620210021",
+        "namaBelakang": "Bennart Dem gunawan"
+      },
+      "email": "bennart.dem@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus1",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas Mandiri TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas Kelompok TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "10-07-2023 | Skema dan Relasi : Bagaimana Membuat Struktur Dokumen",
+              "penugasan": {
+                "namaPenugasan": "Tugas Kelompok TM-03",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-02.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "17-07-2023 | Diving Deeper Create operation",
+              "penugasan": {
+                "namaPenugasan": "Submit Tugas TM-04",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user4",
+    "username": "moh.fahri",
+    "password": "*****",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021025",
+        "namaBelakang": "R. Moh. Fahri Aqila Putra"
+      },
+      "email": "moh.fahri@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus1",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas Mandiri TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas Kelompok TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "10-07-2023 | Skema dan Relasi : Bagaimana Membuat Struktur Dokumen",
+              "penugasan": {
+                "namaPenugasan": "Tugas Kelompok TM-03",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-02.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "17-07-2023 | Diving Deeper Create operation",
+              "penugasan": {
+                "namaPenugasan": "Submit Tugas TM-04",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user5",
+    "username": "ramdhan.mahfuzh",
+    "password": "*****",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021027",
+        "namaBelakang": "Ramdhan Mahfuzh"
+      },
+      "email": "ramdhan.mahfuzh@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus1",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "05-07-2023 | Operasi CRUD MongoDB",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas Mandiri TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas Kelompok TM-02",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-02.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "10-07-2023 | Skema dan Relasi : Bagaimana Membuat Struktur Dokumen",
+              "penugasan": {
+                "namaPenugasan": "Tugas Kelompok TM-03",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-02.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "17-07-2023 | Diving Deeper Create operation",
+              "penugasan": {
+                "namaPenugasan": "Submit Tugas TM-04",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user8",
+    "username": "reihandi.putra",
+    "password": "******",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021017",
+        "namaBelakang": "Reihandi Putra Zulkarnain"
+      },
+      "email": "reihandi.putra@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus3",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 1 : teori tentang basisdata administrasi",
+              "penugasan": {
+                "namaPenugasan": "Tugas 1",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 3: manajemen File",
+              "penugasan": {
+                "namaPenugasan": "KUIS SC 1 SC 2",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 6: Tugas SC 3 SC 4",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas SC 3",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas SC 4",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user7",
+    "username": "hasnaura.athavania",
+    "password": "******",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021030",
+        "namaBelakang": "Hasnaura Athavania Hernawan"
+      },
+      "email": "hasnaura.athavania@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus3",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 1 : teori tentang basisdata administrasi",
+              "penugasan": {
+                "namaPenugasan": "Tugas 1",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 3: manajemen File",
+              "penugasan": {
+                "namaPenugasan": "KUIS SC 1 SC 2",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 6: Tugas SC 3 SC 4",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas SC 3",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas SC 4",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user9",
+    "username": "darari.yafi",
+    "password": "******",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021046",
+        "namaBelakang": "Darari Yafi Fuadi"
+      },
+      "email": "darari.yafi@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus3",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 1 : teori tentang basisdata administrasi",
+              "penugasan": {
+                "namaPenugasan": "Tugas 1",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 3: manajemen File",
+              "penugasan": {
+                "namaPenugasan": "KUIS SC 1 SC 2",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 6: Tugas SC 3 SC 4",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas SC 3",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas SC 4",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "user10",
+    "username": "berka.ridha",
+    "password": "******",
+    "umum": {
+      "nama": {
+        "namaDepan": "162021044",
+        "namaBelakang": "Berka Ridha Rahmainingtias"
+      },
+      "email": "berka.ridha@mhs.itenas.ac.id",
+      "kota": "Bandung",
+      "negara": "Indonesia",
+      "zonaWaktu": "Zona Waktu Peladen (Asia/Jakarta)"
+    },
+    "detailKursus": [
+      {
+        "idKursus": "kursus2",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 3 (12 juli 2023)",
+              "kuis": {
+                "namakuis": "Warming Up 3:Key Concept of IT ServiceKuis",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              },
+              "penugasan": {
+                "namaPenugasan": "Weekly Activity 1: Key Concept of IT ServicePenugasan",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 4 (26 juli 2023)",
+              "kuis": {
+                "namakuis": "KUIS 1 IT Service",
+                "keadaanKuis": "Selesai",
+                "tandaKuis": 24,
+                "nilaiKuis": 99.99
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Topik 9: UTS (2 Agustus 2023)",
+              "penugasan": {
+                "namaPenugasan": "Submission UTS ISB-306",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "idKursus": "kursus3",
+        "totalNilai": null,
+        "detailNilai": [
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 1 : teori tentang basisdata administrasi",
+              "penugasan": {
+                "namaPenugasan": "Tugas 1",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 3: manajemen File",
+              "penugasan": {
+                "namaPenugasan": "KUIS SC 1 SC 2",
+                "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                "statusPenilaian": null,
+                "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                "pengirimanBerkas": "162021000_TM-04.pdf",
+                "komentarPengumpulan": null
+              }
+            }
+          },
+          {
+            "pertemuan": {
+              "namaPertemuan": "Kuliah 6: Tugas SC 3 SC 4",
+              "penugasan": [
+                {
+                  "namaPenugasan": "Tugas SC 3",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                },
+                {
+                  "namaPenugasan": "Tugas SC 4",
+                  "statusPengumpulan": "Dikumpulkan untuk dinilai",
+                  "statusPenilaian": null,
+                  "pemutakhiranTerakhir": "Wenesday, 5 July 2023, 14:58",
+                  "pengirimanBerkas": "162021000_TM-04.pdf",
+                  "komentarPengumpulan": null
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
